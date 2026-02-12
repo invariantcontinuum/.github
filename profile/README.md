@@ -54,10 +54,6 @@ Our technology transforms static models into reliable, active orchestration subs
 | :--- | :--- | :--- |
 | **🏗️ Software Engineering** | AI-generated code drift and shadow dependencies. | Enforcing architectural coherence and preventing layer violations at the commit level. |
 | **🤖 Autonomous Systems** | AI agents violating safety constraints. | Runtime verification to ensure agent behavior never drifts from safety protocols. |
-| **📦 Supply Chains** | Digital twins drifting from physical reality. | Data governance that keeps digital models perfectly synced with physical logistics. |
-| **📰 Media Intelligence** | Narrative drift across leaks and public statements. | AI-powered investigative intelligence to trace facts through "truth decay." |
-| **💊 Clinical Trials** | Protocol deviations. | Real-time monitoring to ensure trials strictly adhere to regulatory intent. |
-
 ---
 
 ### 🛡️ Our Philosophy: Unapologetic Specialization
