@@ -1,6 +1,6 @@
+
 <div align="center">
-  <img src="./assets/logo_blackbg.png" alt="Invariant Continuum Technologies Logo" width="150" height="150" />
-  
+  <img src="https://github.com/invariantcontinuum/.github/blob/main/assets/logo_blackbg_lg.png" alt="Invariant Continuum Technologies Logo" height="250" align="start" />
   <h1>Invariant Continuum Technologies</h1>
   
   <h3>
