@@ -68,5 +68,5 @@ While we value elegance, **we prioritize the specialized functionality required 
 ---
 
 <div align="center">
-  <small>© 2024 Invariant Continuum Technologies. Building the immune system for the autonomous age.</small>
+  <small>© 2026 Invariant Continuum Technologies. Building the immune system for the autonomous age.</small>
 </div>
