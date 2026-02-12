@@ -10,17 +10,15 @@
   <p>
     <em>Ensuring <b><code>Intent == Reality</code></b> across humans, software, and organizations.</em>
   </p>
-
   <p>
-    <a href="https://[YOUR_WEBSITE]">
-      <img src="https://img.shields.io/badge/Website-Visit_Invariant-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website" />
+    <a href="https://invariantcontinuum.com">Our Homepage</a>
+    <a href="mailto:contact@invariantcontinuum.com.com">Get In Touch</a>
+  </p>
+      <a href="https://www.linkedin.com/company/invariantcontinuum">
+      <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
     </a>
-    <a href="https://twitter.com/[YOUR_HANDLE]">
-      <img src="https://img.shields.io/badge/Twitter-Follow_Us-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-    </a>
-    <a href="mailto:contact@[YOUR_DOMAIN].com">
-      <img src="https://img.shields.io/badge/Contact-Get_in_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
+  <p>
+      <img src="https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white" alt="No AI" />
   </p>
 </div>
 
@@ -31,6 +29,8 @@
 At **Invariant Continuum**, we address the fundamental divergence in complex adaptive systems: **Reality continuously diverges from Intent.**
 
 We build the governance and verification infrastructure that ensures your intent matches reality across requirements, software implementation, operational data, documentation, and compliance frameworks. We make the gap between *design* and *execution* observable, measurable, and governable.
+
+## Disclaimer: 
 
 > *"Just because you memorized the specs of a Bugatti doesn't mean you can build one—especially when you can’t verify the car ever lived up to the promise."*
 
