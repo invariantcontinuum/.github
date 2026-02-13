@@ -12,7 +12,7 @@
   </p>
   <p>
     <a href="https://invariantcontinuum.com">Our Homepage</a>
-    <a href="mailto:contact@invariantcontinuum.com.com">Get In Touch</a>
+    <a href="mailto:contact@invariantcontinuum.com?Subject=Github ">Get In Touch</a>
   </p>
       <a href="https://www.linkedin.com/company/invariantcontinuum">
       <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn" />
