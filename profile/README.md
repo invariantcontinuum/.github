@@ -1,5 +1,5 @@
 <div >
-<img src="https://github.com/invariantcontinuum/.github/blob/main/assets/logo_blackbg_lg.png" alt="Invariant Continuum Technologies Logo" height="250" " align="center" />
+<img src="https://github.com/invariantcontinuum/.github/blob/main/assets/logo_blackbg_lg.png" alt="Invariant Continuum Technologies Logo" height="250" width="100%" align="center" />
 </div>
 <div align="center">
   <h1>Invariant Continuum Technologies</h1>
