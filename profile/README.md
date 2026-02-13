@@ -4,7 +4,7 @@
   <h1>Invariant Continuum Technologies</h1>
   
   <h3>
-    The Structural Integrity Layer for Complex Autonomous Systems.
+     Building the immune system for the autonomous age.
   </h3>
   
   <p>
@@ -66,5 +66,5 @@ While we value elegance, **we prioritize the specialized functionality required 
 ---
 
 <div align="center">
-  <small>© 2026 Invariant Continuum Technologies. Building the immune system for the autonomous age.</small>
+  <small>© 2026 Invariant Continuum Technologies. The Structural Integrity Layer for Complex Autonomous Systems.</small>
 </div>
