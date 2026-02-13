@@ -31,7 +31,7 @@ At **Invariant Continuum**, we address the fundamental divergence in complex ada
 We build the governance and verification infrastructure that ensures your intent matches reality across requirements, software implementation, operational data, documentation, and compliance frameworks. We make the gap between *design* and *execution* observable, measurable, and governable.
 
 ## Disclaimer: 
-
+  <img src="https://github.com/invariantcontinuum/.github/blob/main/assets/disclaimer_lg.png" alt="Invariant Continuum Technologies Logo" height="250" align="start" />
 > *"Just because you memorized the specs of a Bugatti doesn't mean you can build one—especially when you can’t verify the car ever lived up to the promise."*
 
 ---
