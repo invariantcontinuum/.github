@@ -1,8 +1,8 @@
-
+<div >
+<img src="https://github.com/invariantcontinuum/.github/blob/main/assets/logo_blackbg_lg.png" alt="Invariant Continuum Technologies Logo" height="250" " align="center" />
+</div>
 <div align="center">
-  <img src="https://github.com/invariantcontinuum/.github/blob/main/assets/logo_blackbg_lg.png" alt="Invariant Continuum Technologies Logo" height="250" align="start" />
   <h1>Invariant Continuum Technologies</h1>
-  
   <h3>
      Building the immune system for the autonomous age.
   </h3>
