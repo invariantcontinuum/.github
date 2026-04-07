@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/invariantcontinuum/.github/main/assets/logo.png" width="200" height="200" alt="invariantcontinuum logo" />
+</div>
+
+<div align="center">
   <h1>Invariant Continuum</h1>
   <h3>Robust, formally verified software systems. Building the foundation of reliable and mathematical software engineering.</h3>
   
