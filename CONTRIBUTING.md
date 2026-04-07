@@ -1,41 +1,9 @@
-# Contributing to Invariant Continuum Technologies
+# Contributing
 
-Thank you for your interest in contributing! 🎉
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change. 
 
-## About Us
-
-We are building the immune system for the autonomous age — ensuring **Intent == Reality** across humans, software, and organizations.
-
-## How to Contribute
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## Commit Convention
-
-We use [Conventional Commits](https://www.conventionalcommits.org/):
-
-- `feat:` — New feature
-- `fix:` — Bug fix
-- `docs:` — Documentation changes
-- `style:` — Code style (formatting, semicolons, etc.)
-- `refactor:` — Code refactoring
-- `test:` — Adding or updating tests
-- `chore:` — Build process or auxiliary tool changes
-
-## Code Style
-
-- Follow existing code style in the repository
-* Add comments for complex logic
-* Update documentation as needed
-
-## Security
-
-For security issues, please email [security@invariantcontinuum.com](mailto:security@invariantcontinuum.com) instead of opening a public issue.
-
-## Questions?
-
-Open an issue or contact us at [contact@invariantcontinuum.com](mailto:contact@invariantcontinuum.com)
+## Pull Request Process
+1. Ensure any install or build dependencies are removed before the end of the layer when doing a build.
+2. Update the README.md with details of changes to the interface, this includes new environment variables, exposed ports, useful file locations and container parameters.
+3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent.
+4. You may merge the Pull Request in once you have the sign-off of two other developers.
