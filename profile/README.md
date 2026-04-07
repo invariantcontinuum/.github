@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h1>Invariant Continuum</h1>
+  <h1>invariantcontinuum</h1>
   <h3>Robust, formally verified software systems. Building the foundation of reliable and mathematical software engineering.</h3>
   
   <p>
@@ -15,6 +15,7 @@
 ---
 
 ### 🚀 Our Vision
+
 
 At **Invariant Continuum**, our core mission is focused on:
 > Robust, formally verified software systems. Building the foundation of reliable and mathematical software engineering.
@@ -30,5 +31,5 @@ We welcome contributions from everyone. Check out our repositories and get invol
 ---
 
 <div align="center">
-  <small>© 2026 Invariant Continuum. Built for the Community.</small>
+  <small>© 2026 invariantcontinuum. Built for the Community.</small>
 </div>
