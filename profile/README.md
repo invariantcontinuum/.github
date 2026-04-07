@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/invariantcontinuum/.github/main/assets/logo.png" width="200" height="200" alt="invariantcontinuum logo" />
+  <img src="https://raw.githubusercontent.com/invariantcontinuum/.github/main/assets/invariantcontinuum_black_bg_logo.jpg" width="600" alt="invariantcontinuum logo" />
 </div>
 
 <div align="center">
@@ -7,7 +7,7 @@
   <h3>Robust, formally verified software systems. Building the foundation of reliable and mathematical software engineering.</h3>
   
   <p>
-    <a href="https://invariantcontinuum.github.io/invariantcontinuum/">Our Homepage</a>
+    <a href="https://invariantcontinuum.com/">Our Homepage</a>
     <a href="mailto:contact@invariantcontinuum.io">Get In Touch</a>
   </p>
 </div>
